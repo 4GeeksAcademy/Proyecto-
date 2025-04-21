@@ -3,3 +3,9 @@
 body{
     background: white;
 }
+body {
+    text-align: center;
+  }
+#excuse {
+    color: yellow;
+}
